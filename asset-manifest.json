@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mini-shop/static/css/main.f58b8123.css",
+    "main.js": "/mini-shop/static/js/main.cd86f297.js",
+    "static/media/manga2.jpeg": "/mini-shop/static/media/manga2.e235a5cd4c2e4d56d37b.jpeg",
+    "static/media/manga3.webp": "/mini-shop/static/media/manga3.2fa616600e61d160f01a.webp",
+    "static/media/manga1.jpeg": "/mini-shop/static/media/manga1.24854ab09d90163d40e9.jpeg",
+    "static/media/manga4.jpeg": "/mini-shop/static/media/manga4.49d01bdcc8f76d7d5587.jpeg",
+    "static/media/done.png": "/mini-shop/static/media/done.2e1001f79a91776de835.png",
+    "static/media/loading.jpeg": "/mini-shop/static/media/loading.d3bbc3113e9a2ba9e4cc.jpeg",
+    "static/media/taskade-icon.svg": "/mini-shop/static/media/taskade-icon.23872e3a2356706593255448cec389fd.svg",
+    "index.html": "/mini-shop/index.html",
+    "static/media/bx-cart.svg": "/mini-shop/static/media/bx-cart.64f1280eae925d08dba469afb43e3e47.svg",
+    "main.f58b8123.css.map": "/mini-shop/static/css/main.f58b8123.css.map",
+    "main.cd86f297.js.map": "/mini-shop/static/js/main.cd86f297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58b8123.css",
+    "static/js/main.cd86f297.js"
+  ]
+}
